@@ -109,7 +109,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (CGPA: 9.15) and ac
 
 <div align="center">
   <a href="mailto:anshullakra8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshulkumar07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/anshullakra8"><img src="https://img.shields.io/badge/Codeforces-1f8bcb?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/u/anshullakra8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
 </div>
