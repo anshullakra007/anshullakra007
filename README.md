@@ -58,8 +58,23 @@ Currently pursuing my B.Tech in Computer Science Engineering (CGPA: 9.11/10.0) a
 
 ## Achievements & Competitive Programming
 
-* [**Codeforces:**](https://codeforces.com/profile/anshullakra8) [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=anshullakra8)](https://codeforces.com/profile/anshullakra8) Attained Pupil rank (Peak: 1289). Secured global rank 2185 in Educational CF Round 190.
-* [**LeetCode:**](https://leetcode.com/u/anshullakra8/) [![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedProblem&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fanshullakra8%2Fsolved&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshullakra8/) 1450 contest rating.
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://codeforces.com/profile/anshullakra8">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anshullakra8&theme=dark" alt="Codeforces Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/u/anshullakra8/">
+        <img src="https://leetcard.jacoblin.cool/anshullakra8?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+* **Codeforces:** Attained Pupil rank (Peak: 1289). Secured global rank 2185 in Educational CF Round 190.
+* **LeetCode:** 1450 contest rating.
 * Mastered **360+ DSA problems** across both platforms using C++ (STL), resolving 118 Medium and Hard challenges.
 
 ## Certifications
