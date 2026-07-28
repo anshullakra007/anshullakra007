@@ -10,32 +10,61 @@
 
 I am an engineer focused on building scalable, high-performance backend systems and infrastructure. I enjoy tackling complex architectural problems, from designing custom database clones to developing robust remote code execution engines.
 
-Currently pursuing my B.Tech in Computer Science Engineering (CGPA: 9.15) and actively building enterprise-grade applications. 
+Currently pursuing my B.Tech in Computer Science Engineering (CGPA: 9.11/10.0) at Vellore Institute of Technology (VIT), Bhopal (Expected June 2027). 
 
 * **Core Focus:** Distributed systems, backend architecture, and algorithmic efficiency.
 * **Current Goal:** Pushing high-throughput system boundaries and advancing in competitive programming.
 
+## Education
+
+**Vellore Institute of Technology (VIT), Bhopal** — *B.Tech in Computer Science* (Sep 2023 - Jun 2027)
+* **CGPA:** 9.11/10.0
+* **Coursework:** Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, System Design.
+
 ## Technical Expertise
 
-* **Languages:** Java (JDK 21), C++ (STL), JavaScript (ES6+), Python, SQL
-* **Backend & Systems:** Spring Boot 3, Docker, Microservices, System Design
-* **Frontend:** React.js, Tailwind CSS, Socket.io
+* **Languages:** Java (JDK 21), C++ (STL), JavaScript (ES6+), Python, SQL, C
+* **Backend & Systems:** Spring Boot 3, Docker, Microservices, Raw Sockets, Multithreading, TCP/IP, ThreadPoolExecutor
+* **Frontend & Web:** React.js, Next.js, Node.js, Socket.io, Tailwind CSS, WebSockets, REST APIs
+* **Data Analytics & AI:** Python (Pandas), Google Gemini API, ChromaDB (Vector DB), Recharts
+* **Tools:** Git, GitHub, Postman, VS Code
+
+## Open Source Contributions
+
+**Jedis (Official Redis Java Client)** | *Java, Concurrency, Networking* 
+* Implemented a thread-safe fix in `MultiNodePipelineBase` to resolve a lock-inversion deadlock ([Issue #4557](https://github.com/redis/jedis/issues/4557)).
+* Eliminated eager connection borrowing during command appending to break hold-and-wait conditions.
+* Authored a deterministic concurrency integration test using `CyclicBarrier` and strict connection mocks.
 
 ## Selected Works
 
-**[Distributed Code Engine](https://github.com/anshullakra007/Distributed-Code-Execution-Engine)** — *Java, Spring Boot, Docker, React*
-High-Performance Remote Code Execution Platform that compiles and runs C++, Java, and Python code in isolated Docker containers, preventing system attacks while streaming real-time output.
+**ReconAI (FinTech Operations Dashboard)** | *Python, FastAPI, React, Pandas, Gemini*
+* Designed an automated data reconciliation pipeline processing 5,000+ synthetic payment gateway transactions.
+* Benchmarked backend resolution logic using asyncio, achieving a peak throughput of 420.16 req/sec and a P99 latency of 38.63 ms.
+* Automated root-cause analysis (RCA) on failed transaction batches by integrating the Gemini LLM, guaranteeing a 100% success rate under concurrent load testing.
 
-**SyncDraw** — *React, Node.js, Socket.io, WebSockets*
-Collaborative Whiteboard featuring zero-latency synchronization using a Pub/Sub WebSocket architecture to broadcast drawing coordinates to multiple clients instantly.
+**[Distributed Code Engine](https://github.com/anshullakra007/Distributed-Code-Execution-Engine)** | *Java, Spring Boot, Docker, React*
+* Architected a remote code evaluation API capable of compiling and running Python, C++, and Java concurrently with a 100% success rate under parallel load testing.
+* Accelerated Python runtime pipelines to achieve a peak processing capacity of 130+ req/sec with under 70 ms mean response time.
+* Implemented asynchronous process management using Java `ProcessBuilder` to handle heavy multi-threaded compilation workloads.
 
-**MiniRedis** — *Java, Raw Sockets, Multi-threading*
-In-Memory Key-Value Store built from scratch. Implements a custom TCP Protocol and uses ConcurrentHashMap with fine-grained locking for thread safety.
+**MiniRedis (Multi-threaded TCP Store)** | *Java, Raw Sockets, Concurrency*
+* Engineered a concurrent in-memory key-value storage engine entirely from scratch, benchmarking at a peak throughput of 94,600+ ops/sec over raw TCP sockets.
+* Orchestrated thread-safe data consistency across 500 concurrent client connections using `ConcurrentHashMap` and fine-grained locking, sustaining a 0.00% error rate.
+* Designed a custom TCP protocol with sub-millisecond mean execution delays (0.6 ms) and minimized context-switching overhead, stabilizing P99 latencies at 3.2 ms.
 
-**L7 Load Balancer** — *Java, HTTP Server, Networking*
-Custom Reverse Proxy that distributes traffic across backend servers implementing Round Robin and Least Connections algorithms using lock-free Atomic counters.
+**SyncDraw & L7 Load Balancer**
+* *(Other notable projects including a real-time collaborative whiteboard via WebSockets and a custom Reverse Proxy implementing Round Robin and Least Connections with lock-free Atomic counters).*
 
-## Competitive Programming
+## Achievements & Competitive Programming
 
-* **Codeforces:** Pupil (Max Rating: 1289) | 200+ Problems Solved
-* **LeetCode:** 1490 Contest Rating | 30+ Problems Solved
+* **Codeforces:** Attained Pupil rank (Peak: 1289). Secured global rank 2185 in Educational CF Round 190.
+* **LeetCode:** 1450 contest rating.
+* Mastered **360+ DSA problems** across both platforms using C++ (STL), resolving 118 Medium and Hard challenges.
+
+## Certifications
+
+* **AWS Certified Solutions Architect – Associate** (Amazon Web Services)
+* **Networking Basics** (Cisco)
+* **Cyber Security Analyst** (IBM Career Education Program)
+* **Blockchain and its Applications** (NPTEL / IIT Madras)
