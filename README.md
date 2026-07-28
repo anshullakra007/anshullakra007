@@ -58,8 +58,8 @@ Currently pursuing my B.Tech in Computer Science Engineering (CGPA: 9.11/10.0) a
 
 ## Achievements & Competitive Programming
 
-* **Codeforces:** Attained Pupil rank (Peak: 1289). Secured global rank 2185 in Educational CF Round 190.
-* **LeetCode:** 1450 contest rating.
+* **Codeforces:** Attained Pupil rank (Peak: 1289). Secured global rank 2185 in Educational CF Round 190. <br> ![Codeforces Rating](https://codeforces-readme-stats.vercel.app/api/badge?username=anshullakra8)
+* **LeetCode:** 1450 contest rating. <br> ![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedProblem&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fanshullakra8%2Fsolved&logo=leetcode&logoColor=yellow)
 * Mastered **360+ DSA problems** across both platforms using C++ (STL), resolving 118 Medium and Hard challenges.
 
 ## Certifications
