@@ -10,7 +10,7 @@
 
 I am an engineer focused on building scalable, high-performance backend systems and infrastructure. I enjoy tackling complex architectural problems, from designing custom database clones to developing robust remote code execution engines.
 
-Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.15/10.0**) at Vellore Institute of Technology (VIT), Bhopal (Expected June 2027). 
+Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0**) at Vellore Institute of Technology (VIT), Bhopal (Expected June 2027). 
 
 * **Core Focus:** Distributed systems, backend architecture, and algorithmic efficiency.
 * **Current Goal:** Pushing high-throughput system boundaries and advancing in competitive programming.
@@ -18,7 +18,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.15/10.0*
 ## Education
 
 **Vellore Institute of Technology (VIT), Bhopal** — *B.Tech in Computer Science and Engineering* (Sep 2023 - Jun 2027)
-* **CGPA:** 9.15/10.0
+* **CGPA:** 9.11/10.0
 * **Coursework:** Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, Distributed Systems, System Design.
 
 ## Technical Expertise
