@@ -37,7 +37,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0*
 * Eliminated eager connection borrowing during command appending to break hold-and-wait conditions under high-concurrency multi-node environments.
 * Authored a deterministic concurrency integration test using `CyclicBarrier` and strict connection mocks.
 
-**[TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)** *(200k+ Star Open Source Algorithms Library)* | **[STATUS: OPEN PR #7544](https://github.com/TheAlgorithms/Java/pull/7544)**
+**[TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)** *(200k+ Star Open Source Algorithms Library)* | **[STATUS: MERGED PR #7544](https://github.com/TheAlgorithms/Java/pull/7544)**
 * **Pull Request:** `Add Concurrent Merge Sort Implementation`
 * Engineered a high-performance multi-threaded Concurrent Merge Sort algorithm using Java's `ForkJoinPool` and recursive task splitting to maximize CPU utilization on multi-core architectures.
 
