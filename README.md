@@ -55,7 +55,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0*
 * Built an AI-powered observability platform that ingests production crash logs, performs semantic code retrieval via ChromaDB, and generates structured root-cause analyses and patch diffs with Gemini.
 * Designed an asynchronous FastAPI telemetry pipeline with crash deduplication and vector search to reduce diagnosis latency for recurring production incidents.
 
-**4. [ReconAI (FinTech Operations Dashboard)](https://github.com/anshullakra007/ReconAI)** | [Live Demo](https://frontend-fawn-five-21.vercel.app/) — *Python, FastAPI, React, Pandas, Gemini*
+**4. [ReconAI (AI-Powered Reconciliation Platform)](https://github.com/anshullakra007/ReconAI)** | [Live Demo](https://frontend-fawn-five-21.vercel.app/) — *Python, FastAPI, React, Pandas, Gemini*
 * Designed an automated data reconciliation pipeline processing **5,000+ synthetic payment gateway transactions** with a peak throughput of **420.16 req/sec** and P99 latency of **38.63 ms**.
 * Automated root-cause analysis (RCA) on failed transaction batches by integrating the Gemini LLM, guaranteeing a **100% resolution success rate** under concurrent load testing.
 
