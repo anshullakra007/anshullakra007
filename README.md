@@ -47,7 +47,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0*
 * Architected a remote code evaluation API running Python, C++, and Java concurrently in isolated Docker containers with a **100% execution success rate** under parallel load testing.
 * Engineered asynchronous process management with Java `ProcessBuilder`, accelerating runtime pipelines to **130+ req/sec** with sub-**70 ms** mean response latency.
 
-**2. [MiniRedis (Multi-threaded TCP Store)](https://github.com/anshullakra007/MiniRedis)** | [Live TCP Server](https://miniredis.onrender.com) — *Java (JDK 21), Raw Sockets, Concurrency*
+**2. [MiniRedis (In-Memory Key-Value Store)](https://github.com/anshullakra007/MiniRedis)** | [Live TCP Server](https://miniredis.onrender.com) — *Java (JDK 21), Raw Sockets, Concurrency*
 * Engineered a concurrent in-memory key-value storage engine from scratch over raw TCP sockets, benchmarking at a peak throughput of **94,600+ ops/sec**.
 * Orchestrated thread-safe data consistency across **500 concurrent client connections** using `ConcurrentHashMap` and fine-grained locking, stabilizing P99 latencies at **3.2 ms** with a **0.00% error rate**.
 
@@ -59,7 +59,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0*
 * Designed an automated data reconciliation pipeline processing **5,000+ synthetic payment gateway transactions** with a peak throughput of **420.16 req/sec** and P99 latency of **38.63 ms**.
 * Automated root-cause analysis (RCA) on failed transaction batches by integrating the Gemini LLM, guaranteeing a **100% resolution success rate** under concurrent load testing.
 
-**5. [FinTech Churn & Impact Analyzer](https://github.com/anshullakra007/fintech-churn-analyzer)** | [Live Demo](https://fintech-churn-analyzer.onrender.com) — *Python, Streamlit, Random Forest, Gemini API*
+**5. [AI-Powered Customer Analytics Platform](https://github.com/anshullakra007/fintech-churn-analyzer)** | [Live Demo](https://fintech-churn-analyzer.onrender.com) — *Python, Streamlit, Random Forest, Gemini API*
 * Engineered an AI operational CRM and analytics dashboard to quantify and mitigate revenue at risk from payment gateway failures and technical debt.
 * Implemented a Random Forest classifier to predict customer churn probability and utilized Gemini LLM to automatically draft personalized retention outreach campaigns.
 
