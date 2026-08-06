@@ -109,7 +109,7 @@ Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0*
 
 ---
 
-## 🌟 STAR Story: anshullakra007
+## Why I built this ?
 
 **Situation:** 
 While building modern software applications, developing structured and scalable solutions is critical. The requirement was to build and maintain `anshullakra007` to address specific technical challenges and provide a robust implementation.
