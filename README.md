@@ -1,117 +1,117 @@
-# Aul Ku
+# Anshul Kumar
 
-**Full Sk & Dbu Sy **
+**Full Stack & Distributed Systems Engineer**
 
-[l](l:ullk8@l.) • [LkI](://www.lk.//ulku07/) • [GHub](://ub./ullk007) • [Cf](://f./fl/ullk8) • [LC](://l./u/ullk8/)
-
----
-
-## Abu
-
-I fu bul lbl, -f bk y fuu. I y kl l ul bl, f u b l vl bu u .
-
-Culy uu y B.T Cu S (**CGA: 9.11/10.0**) Vll Iu f Tly (VIT), Bl ( Ju 2027). 
-
-* **C Fu:** Dbu y, bk u, l ffy.
-* **Cu Gl:** u -uu y bu v v .
-
-## u
-
-**Vll Iu f Tly (VIT), Bl** — *B.T Cu S * (S 2023 - Ju 2027)
-* **CGA:** 9.11/10.0
-* **Cuwk:** Ob-O , D Suu & Al, O Sy, Cu Nwk, DBMS, Dbu Sy, Sy D.
-
-## Tl 
-
-* **Lu:** Jv (JDK 21), C++ (STL), JvS (S6+), y, SQL, C
-* **Bk & Sy:** S B 3, FAI, N., , Dk, Mv, Rw Sk, Mul, TC/I, Cuy (`CuHM`, `Tlu`)
-* **F & Wb:** R., N., N., Sk., Tlw CSS, WbSk, RST AI
-* **D Aly & AI:** y (), Gl G AI, CDB (V DB), R
-* **Tl:** G, GHub, Lu, , VS C
-
-## O Su Cbu
-
-**[ / ](://ub.//)** *(Offl R Jv Cl)* | **[STATUS: ON R #4645](://ub.///ull/4645)**
-* **ull Rqu:** `f(lu): v lk-v lk MulNlB (#4557)`
-* Il -f f `MulNlB` lv l ul- lk-v lk ([Iu #4557](://ub.///u/4557)).
-* l bw u bk l--w u -uy ul- v.
-* Au uy u `CylB` k.
-
-**[TAl / Jv](://ub./TAl/Jv)** *(200k+ S O Su Al Lby)* | **[STATUS: MRGD R #7544](://ub./TAl/Jv/ull/7544)**
-* **ull Rqu:** `A Cu M S Il`
-* -f ul- Cu M S l u Jv' `FkJl` uv k l z CU ulz ul- u.
-
-## Fu & Tl 
-
-**1. [Dbu C ](://ub./ullk007/Dbu-C-u-)** | [Lv D](://bu--u-.vl./) — *Jv, S B, Dk, R*
-* A vlu AI u y, C++, Jv uly l Dk w **100% u u ** u lll l .
-* yu w Jv `Bul`, l u l **130+ q/** w ub-**70 ** ly.
-
-**2. [MR (I-My Ky-Vlu S)](://ub./ullk007/MR)** | [Lv TC Sv](://..) — *Jv (JDK 21), Rw Sk, Cuy*
-* u -y ky-vlu f v w TC k, bk k uu f **94,600+ /**.
-* O -f y **500 u l ** u `CuHM` f- lk, blz 99 l **3.2 ** w **0.00% **.
-
-**3. [Sl AI](://ub./ullk007/l-)** | [Lv D](://uf.//ullk8/l-) — *y, FAI, CDB, Gl G LLM, Dk*
-* Bul AI-w bvbly lf u l, f vl v CDB, uu -u ly ff w G.
-* D yu FAI ly l w ul v u ly f u u .
-
-**4. [RAI (AI-w Rl lf)](://ub./ullk007/RAI)** | [Lv D](://f-fw-fv-21.vl./) — *y, FAI, R, , G*
-* D u l l **5,000+ y y wy ** w k uu f **420.16 q/** 99 ly f **38.63 **.
-* Au -u ly (RCA) fl b by G LLM, u **100% lu u ** u u l .
-
-**5. [AI-w Cu Aly lf](://ub./ullk007/f-u-lyz)** | [Lv D](://f-u-lyz..) — *y, Sl, R F, G AI*
-* AI l CRM ly b qufy vu k f y wy flu l b.
-* Il R F lf u u bbly ulz G LLM ully f lz u .
-
-**6. [SyDw](://ub./ullk007/SyDw)** | [Lv D](://y-w-.vl./) — *R., N., Sk., WbSk*
-* Bul llbv wb wb l fu z-ly ul-u yz v ub/Sub WbSk u.
-* z Sk. v b v ly w l wk yl v l.
-
-**7. [L7 L Bl](://ub./ullk007/LBl)** | [Lv D](://lbl-f..) — *C++, Mul-, TC/I, HTT Sv, Lk-f A*
-* u L7 Rv y bu ff bk v u Ru Rb L C u l.
-* Ulz lk-f A u ul- wk l l yz blk u u k.
-
-**8. [Sy D L lf](://ub./ullk007/y--l-lf)** | [Lv D](://y--l-lf.vl./) — *R., N., , Tlw CSS*
-* Dvl v v lf f u lbl Sy D u bu y .
-* Suu l-wl ul blu, , b v vul uy ul.
-
-**9. [CL AI](://ub./ullk007/l-)** | [Lv D](://l--q../) — *y, FAI, R., Gl G Fl, Dk*
-* Bul u vw u f ly blk, bu, f lu.
-* D yu l w by G Fl lv ub- f ly bkw.
-
-## Av & Cv 
-
-<bl l="" b="0" w="100%">
- <>
- < w="50%" l="">
- < f="://f./fl/ullk8">
- < ="://f--.vl.//?u=ullk8&=k" l="Cf S" />
- </>
- </>
- < w="50%" l="">
- < f="://l./u/ullk8/">
- < ="://l.bl.l/ullk8?=k&f=I&=vy" l="LC S" />
- </>
- </>
- </>
-</bl>
-
-* **Cf:** A **ul** k (k R: **1289**). Su lbl k **2185** ul CF Ru 190.
-* **LC:** **1450** .
-* M **360+ DSA bl** b lf u C++ (STL), lv **118 Mu H** ll.
-
-## Cf
-
-* **AWS Cf Slu A – A** (Az Wb Sv)
-* **Nwk B** (C)
-* **Cyb Suy Aly** (IBM C u )
-* **Blk Al** (NTL / IIT M)
+[Email](mailto:anshullakra8@gmail.com) • [LinkedIn](https://www.linkedin.com/in/anshulkumar07/) • [GitHub](https://github.com/anshullakra007) • [Codeforces](https://codeforces.com/profile/anshullakra8) • [LeetCode](https://leetcode.com/u/anshullakra8/)
 
 ---
 
-## Wy I bul ?
+## About
 
-**Su:** A vl' GHub fl fl, bu ful fl f lk ly uu f bu k v.
-**Tk:** I u GHub fl RADM v fl l f u -u llb.
-**A:** I ulz kw f, GHub f y k, u SVG vully l, ly uu fl. I z y kll, l y , u wkflw b.
-**Rul:** T fl ffvly u y bl l, fly v fl f y -u f.
+I am an engineer focused on building scalable, high-performance backend systems and infrastructure. I enjoy tackling complex architectural problems, from designing custom database clones to developing robust remote code execution engines.
+
+Currently pursuing my B.Tech in Computer Science Engineering (**CGPA: 9.11/10.0**) at Vellore Institute of Technology (VIT), Bhopal (Expected June 2027). 
+
+* **Core Focus:** Distributed systems, backend architecture, and algorithmic efficiency.
+* **Current Goal:** Pushing high-throughput system boundaries and advancing in competitive programming.
+
+## Education
+
+**Vellore Institute of Technology (VIT), Bhopal** — *B.Tech in Computer Science and Engineering* (Sep 2023 - Jun 2027)
+* **CGPA:** 9.11/10.0
+* **Coursework:** Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Computer Networks, DBMS, Distributed Systems, System Design.
+
+## Technical Expertise
+
+* **Languages:** Java (JDK 21), C++ (STL), JavaScript (ES6+), Python, SQL, C
+* **Backend & Systems:** Spring Boot 3, FastAPI, Node.js, Express, Docker, Microservices, Raw Sockets, Multithreading, TCP/IP, Concurrency (`ConcurrentHashMap`, `ThreadPoolExecutor`)
+* **Frontend & Web:** React.js, Next.js, Node.js, Socket.io, Tailwind CSS, WebSockets, REST APIs
+* **Data Analytics & AI:** Python (Pandas), Google Gemini API, ChromaDB (Vector DB), Recharts
+* **Tools:** Git, GitHub, Linux, Postman, VS Code
+
+## Open Source Contributions
+
+**[redis / jedis](https://github.com/redis/jedis)** *(Official Redis Java Client)* | **[STATUS: OPEN PR #4645](https://github.com/redis/jedis/pull/4645)**
+* **Pull Request:** `fix(cluster): prevent lock-inversion deadlock in MultiNodePipelineBase (#4557)`
+* Implemented a thread-safe fix in `MultiNodePipelineBase` to resolve a critical multi-threading lock-inversion deadlock ([Issue #4557](https://github.com/redis/jedis/issues/4557)).
+* Eliminated eager connection borrowing during command appending to break hold-and-wait conditions under high-concurrency multi-node environments.
+* Authored a deterministic concurrency integration test using `CyclicBarrier` and strict connection mocks.
+
+**[TheAlgorithms / Java](https://github.com/TheAlgorithms/Java)** *(200k+ Star Open Source Algorithms Library)* | **[STATUS: MERGED PR #7544](https://github.com/TheAlgorithms/Java/pull/7544)**
+* **Pull Request:** `Add Concurrent Merge Sort Implementation`
+* Engineered a high-performance multi-threaded Concurrent Merge Sort algorithm using Java's `ForkJoinPool` and recursive task splitting to maximize CPU utilization on multi-core architectures.
+
+## Featured & Technical Projects
+
+**1. [Distributed Code Engine](https://github.com/anshullakra007/Distributed-Code-Execution-Engine)** | [Live Demo](https://distributed-code-execution-engine.vercel.app/) — *Java, Spring Boot, Docker, React*
+* Architected a remote code evaluation API running Python, C++, and Java concurrently in isolated Docker containers with a **100% execution success rate** under parallel load testing.
+* Engineered asynchronous process management with Java `ProcessBuilder`, accelerating runtime pipelines to **130+ req/sec** with sub-**70 ms** mean response latency.
+
+**2. [MiniRedis (In-Memory Key-Value Store)](https://github.com/anshullakra007/MiniRedis)** | [Live TCP Server](https://miniredis.onrender.com) — *Java (JDK 21), Raw Sockets, Concurrency*
+* Engineered a concurrent in-memory key-value storage engine from scratch over raw TCP sockets, benchmarking at a peak throughput of **94,600+ ops/sec**.
+* Orchestrated thread-safe data consistency across **500 concurrent client connections** using `ConcurrentHashMap` and fine-grained locking, stabilizing P99 latencies at **3.2 ms** with a **0.00% error rate**.
+
+**3. [Sentinel AI](https://github.com/anshullakra007/sentinel-ai)** | [Live Demo](https://huggingface.co/spaces/anshullakra8/sentinel-ai) — *Python, FastAPI, ChromaDB, Google Gemini LLM, Docker*
+* Built an AI-powered observability platform that ingests production crash logs, performs semantic code retrieval via ChromaDB, and generates structured root-cause analyses and patch diffs with Gemini.
+* Designed an asynchronous FastAPI telemetry pipeline with crash deduplication and vector search to reduce diagnosis latency for recurring production incidents.
+
+**4. [ReconAI (AI-Powered Reconciliation Platform)](https://github.com/anshullakra007/ReconAI)** | [Live Demo](https://frontend-fawn-five-21.vercel.app/) — *Python, FastAPI, React, Pandas, Gemini*
+* Designed an automated data reconciliation pipeline processing **5,000+ synthetic payment gateway transactions** with a peak throughput of **420.16 req/sec** and P99 latency of **38.63 ms**.
+* Automated root-cause analysis (RCA) on failed transaction batches by integrating the Gemini LLM, guaranteeing a **100% resolution success rate** under concurrent load testing.
+
+**5. [AI-Powered Customer Analytics Platform](https://github.com/anshullakra007/fintech-churn-analyzer)** | [Live Demo](https://fintech-churn-analyzer.onrender.com) — *Python, Streamlit, Random Forest, Gemini API*
+* Engineered an AI operational CRM and analytics dashboard to quantify and mitigate revenue at risk from payment gateway failures and technical debt.
+* Implemented a Random Forest classifier to predict customer churn probability and utilized Gemini LLM to automatically draft personalized retention outreach campaigns.
+
+**6. [SyncDraw](https://github.com/anshullakra007/SyncDraw)** | [Live Demo](https://sync-draw-eight.vercel.app/) — *React.js, Node.js, Socket.io, WebSockets*
+* Built a collaborative whiteboard web application featuring zero-latency multi-user synchronization over a Pub/Sub WebSocket architecture.
+* Engineered optimized Socket.io event broadcasting to transmit canvas coordinates instantly with minimal network payload overhead across connected clients.
+
+**7. [L7 Load Balancer](https://github.com/anshullakra007/LoadBalancer)** | [Live Demo](https://loadbalancer-sgfp.onrender.com) — *C++, Multi-threading, TCP/IP, HTTP Server, Lock-free Atomics*
+* Engineered a custom L7 Reverse Proxy distributing traffic across backend servers using Round Robin and Least Connections routing algorithms.
+* Utilized lock-free Atomic counters and multi-threaded worker pools to eliminate synchronization bottlenecks under concurrent connection spikes.
+
+**8. [System Design Learning Platform](https://github.com/anshullakra007/system-design-learning-platform)** | [Live Demo](https://system-design-learning-platform.vercel.app/) — *React.js, Node.js, Express, Tailwind CSS*
+* Developed a comprehensive interactive platform for engineering students to master scalable System Design architectures and distributed systems patterns.
+* Structured real-world architectural blueprints, caching strategies, and database sharding paradigms into interactive visual study modules.
+
+**9. [CodeLens AI](https://github.com/anshullakra007/codelens-ai)** | [Live Demo](https://codelens-ai-ixqc.onrender.com/) — *Python, FastAPI, React.js, Google Gemini Flash, Docker*
+* Built an automated code review agent that audits code snippets for time and space complexity bottlenecks, catches bugs, and generates refactored solutions.
+* Designed an asynchronous inspection pipeline powered by Gemini Flash that delivers sub-second refactor recommendations and complexity breakdowns.
+
+## Achievements & Competitive Programming
+
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://codeforces.com/profile/anshullakra8">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anshullakra8&theme=dark" alt="Codeforces Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/u/anshullakra8/">
+        <img src="https://leetcard.jacoblin.cool/anshullakra8?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+* **Codeforces:** Attained **Pupil** rank (Peak Rating: **1289**). Secured global rank **2185** in Educational CF Round 190.
+* **LeetCode:** **1450** contest rating.
+* Mastered **360+ DSA problems** across both platforms using C++ (STL), resolving **118 Medium and Hard** challenges.
+
+## Certifications
+
+* **AWS Certified Solutions Architect – Associate** (Amazon Web Services)
+* **Networking Basics** (Cisco)
+* **Cyber Security Analyst** (IBM Career Education Program)
+* **Blockchain and its Applications** (NPTEL / IIT Madras)
+
+---
+
+## Why I built this ?
+
+**Situation:** A developer's GitHub profile is their most important portfolio, but default profiles often lack personality and structured information about tech stacks and achievements.
+**Task:** I needed to create a standout GitHub profile README that serves as a professional landing page for recruiters and open-source collaborators.
+**Action:** I utilized markdown formatting, GitHub actions for dynamic statistic tracking, and custom SVGs to design a visually appealing, highly structured profile. I categorized my skills, highlighted my top repositories, and integrated automated workflow badges.
+**Result:** The profile effectively communicates my engineering capabilities at a glance, significantly improving the professional presentation of my open-source footprint.
