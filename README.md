@@ -1,5 +1,11 @@
 # Anshul Kumar
 
+Full Stack & Distributed Systems Engineer
+
+[Email](mailto:anshullakra8@gmail.com) • [LinkedIn](https://www.linkedin.com/in/anshulkumar07/) • [GitHub](https://github.com/anshullakra007) • [Codeforces](https://codeforces.com/profile/anshullakra8) • [LeetCode](https://leetcode.com/u/anshullakra8/)
+
+---
+
 ## Why I built this ?
 
 ### Situation
@@ -13,12 +19,6 @@ I utilized markdown formatting, GitHub actions for dynamic statistic tracking, a
 
 ### Result
 The profile effectively communicates my engineering capabilities at a glance, significantly improving the professional presentation of my open-source footprint.
-
----
-
-Full Stack & Distributed Systems Engineer
-
-[Email](mailto:anshullakra8@gmail.com) • [LinkedIn](https://www.linkedin.com/in/anshulkumar07/) • [GitHub](https://github.com/anshullakra007) • [Codeforces](https://codeforces.com/profile/anshullakra8) • [LeetCode](https://leetcode.com/u/anshullakra8/)
 
 ---
 
