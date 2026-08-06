@@ -6,20 +6,6 @@ Full Stack & Distributed Systems Engineer
 
 ---
 
-## Why I built this ?
-
-### Situation
-A developer's GitHub profile is their most important portfolio, but default profiles often lack personality and structured information about tech stacks and achievements.
-
-### Task
-I needed to create a standout GitHub profile README that serves as a professional landing page for recruiters and open-source collaborators.
-
-### Action
-I utilized markdown formatting, GitHub actions for dynamic statistic tracking, and custom SVGs to design a visually appealing, highly structured profile. I categorized my skills, highlighted my top repositories, and integrated automated workflow badges.
-
-### Result
-The profile effectively communicates my engineering capabilities at a glance, significantly improving the professional presentation of my open-source footprint.
-
 ---
 
 ## About
@@ -124,3 +110,19 @@ Vellore Institute of Technology (VIT), Bhopal — *B.Tech in Computer Science an
 * Blockchain and its Applications (NPTEL / IIT Madras)
 
 ---
+
+---
+
+## Why I built this ?
+
+### Situation
+A developer's GitHub profile is their most important portfolio, but default profiles often lack personality and structured information about tech stacks and achievements.
+
+### Task
+I needed to create a standout GitHub profile README that serves as a professional landing page for recruiters and open-source collaborators.
+
+### Action
+I utilized markdown formatting, GitHub actions for dynamic statistic tracking, and custom SVGs to design a visually appealing, highly structured profile. I categorized my skills, highlighted my top repositories, and integrated automated workflow badges.
+
+### Result
+The profile effectively communicates my engineering capabilities at a glance, significantly improving the professional presentation of my open-source footprint.
