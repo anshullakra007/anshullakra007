@@ -1,5 +1,21 @@
 # Anshul Kumar
 
+## Why I built this ?
+
+### Situation
+A developer's GitHub profile is their most important portfolio, but default profiles often lack personality and structured information about tech stacks and achievements.
+
+### Task
+I needed to create a standout GitHub profile README that serves as a professional landing page for recruiters and open-source collaborators.
+
+### Action
+I utilized markdown formatting, GitHub actions for dynamic statistic tracking, and custom SVGs to design a visually appealing, highly structured profile. I categorized my skills, highlighted my top repositories, and integrated automated workflow badges.
+
+### Result
+The profile effectively communicates my engineering capabilities at a glance, significantly improving the professional presentation of my open-source footprint.
+
+---
+
 Full Stack & Distributed Systems Engineer
 
 [Email](mailto:anshullakra8@gmail.com) • [LinkedIn](https://www.linkedin.com/in/anshulkumar07/) • [GitHub](https://github.com/anshullakra007) • [Codeforces](https://codeforces.com/profile/anshullakra8) • [LeetCode](https://leetcode.com/u/anshullakra8/)
@@ -108,17 +124,3 @@ Vellore Institute of Technology (VIT), Bhopal — *B.Tech in Computer Science an
 * Blockchain and its Applications (NPTEL / IIT Madras)
 
 ---
-
-## Why I built this ?
-
-### Situation
-A developer's GitHub profile is their most important portfolio, but default profiles often lack personality and structured information about tech stacks and achievements.
-
-### Task
-I needed to create a standout GitHub profile README that serves as a professional landing page for recruiters and open-source collaborators.
-
-### Action
-I utilized markdown formatting, GitHub actions for dynamic statistic tracking, and custom SVGs to design a visually appealing, highly structured profile. I categorized my skills, highlighted my top repositories, and integrated automated workflow badges.
-
-### Result
-The profile effectively communicates my engineering capabilities at a glance, significantly improving the professional presentation of my open-source footprint.
